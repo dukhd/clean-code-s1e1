@@ -112,9 +112,6 @@
   justify-content: space-between;
   align-items: center;
 }
-.task-item > * {
-  vertical-align: middle;
-}
 
 .task-item__checkbox {
   margin: 0 10px;
